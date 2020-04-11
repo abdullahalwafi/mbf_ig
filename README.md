@@ -1,4 +1,4 @@
-# mbfig
+# mbf_ig
 
 $ pkg update && upgrade
 
