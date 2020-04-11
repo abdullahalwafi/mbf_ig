@@ -10,7 +10,7 @@ $ pkg install git
 
 $ apt install jq -y
 
-$ git clone https://github.com/MrproAL-404/mbfig
+$ git clone https://github.com/MrproAL-404/mbf_ig
 
 $ Is
 
