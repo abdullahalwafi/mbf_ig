@@ -2,7 +2,7 @@
 
 $ pkg update && upgrade
 
-$ pkg install php
+$ pkg install bash
 
 $ pkg install curl
 
@@ -14,6 +14,6 @@ $ git clone https://github.com/MrproAL-404/mbf_ig
 
 $ Is
 
-$ cd mbfig
+$ cd mbf_ig
 
 $ bash gas.sh
